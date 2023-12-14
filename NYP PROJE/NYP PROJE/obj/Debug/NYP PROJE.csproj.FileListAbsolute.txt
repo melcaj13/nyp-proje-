@@ -1,0 +1,12 @@
+C:\Users\melca\source\repos\NYP PROJE\NYP PROJE\bin\Debug\NYP PROJE.exe.config
+C:\Users\melca\source\repos\NYP PROJE\NYP PROJE\bin\Debug\NYP PROJE.exe
+C:\Users\melca\source\repos\NYP PROJE\NYP PROJE\bin\Debug\NYP PROJE.pdb
+C:\Users\melca\source\repos\NYP PROJE\NYP PROJE\obj\Debug\NYP PROJE.csproj.AssemblyReference.cache
+C:\Users\melca\source\repos\NYP PROJE\NYP PROJE\obj\Debug\NYP_PROJE.Form1.resources
+C:\Users\melca\source\repos\NYP PROJE\NYP PROJE\obj\Debug\NYP_PROJE.Form2.resources
+C:\Users\melca\source\repos\NYP PROJE\NYP PROJE\obj\Debug\NYP_PROJE.Form3.resources
+C:\Users\melca\source\repos\NYP PROJE\NYP PROJE\obj\Debug\NYP_PROJE.Properties.Resources.resources
+C:\Users\melca\source\repos\NYP PROJE\NYP PROJE\obj\Debug\NYP PROJE.csproj.GenerateResource.cache
+C:\Users\melca\source\repos\NYP PROJE\NYP PROJE\obj\Debug\NYP PROJE.csproj.CoreCompileInputs.cache
+C:\Users\melca\source\repos\NYP PROJE\NYP PROJE\obj\Debug\NYP PROJE.exe
+C:\Users\melca\source\repos\NYP PROJE\NYP PROJE\obj\Debug\NYP PROJE.pdb
